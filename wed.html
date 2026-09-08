@@ -1518,7 +1518,7 @@ footer{
 
         <a href="#" class="rsvp-btn">
 
-            Click For Home 💌
+            CLICK FOR HOME 💌
 
         </a>
 
